@@ -1,5 +1,10 @@
 # Pandora
 ***
+Una eCommerce enfocada a cubrir el mercado de los coleccionistas.
+
+![image](https://user-images.githubusercontent.com/32860008/38115273-a47bdaa2-3368-11e8-9b43-82adf3c0cd6e.png)
+
+Desarrollado para Laboratoria http://laboratoria.la
 
 ## Flujo de trabajo: El mercado de los coleccionistas es de 270 millones, con lo cual existe un mercardo potencial que va en crecimiento.
 
